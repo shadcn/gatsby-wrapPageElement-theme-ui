@@ -5,5 +5,8 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    words: ["random", "list", "of", "words"],
+  },
   plugins: [`gatsby-plugin-theme-ui`],
 }
