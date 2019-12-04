@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    words: ["random", "list", "of", "words"],
+    words: ["random", "list", "of", "words", "from", "graphql"],
   },
   plugins: [`gatsby-plugin-theme-ui`],
 }
